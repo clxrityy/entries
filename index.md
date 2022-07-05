@@ -12,4 +12,4 @@ Do we <i>really</i> know what's going on?
 Read the entries in order.
 
 ### [First Entry](https://clxrityy.github.io/entries/entry1/)
-## [READ ALL THE ENTRIES](https://clxrityy.github.io/entries/home/)
+## <img src="icons/book.gif"> [READ ALL THE ENTRIES](https://clxrityy.github.io/entries/home/)
