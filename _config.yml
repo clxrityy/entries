@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "home.html", title: "Entries"}
-  - {file: "README.md", title: }
+  - {file: "index.md", title: "Home"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:clxrityxyz@gmail.com"}
