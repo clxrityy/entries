@@ -10,4 +10,6 @@ Do we <i>really</i> know what's going on?
 
 #### Recommendation ↓
 Read the entries in order.
-## [READ ALL THE ENTRIES]()
+
+### [First Entry](https://clxrityy.github.io/entries/entry1/)
+## [READ ALL THE ENTRIES](https://clxrityy.github.io/entries/home/)
