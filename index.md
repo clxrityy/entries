@@ -9,7 +9,7 @@ title: "Home"
 Do we <i>really</i> know what's going on?
 
 #### Recommendation ↓
-Read the entries in order.
+<u>Read the entries in order.</u>
 
 ### [➢ First Entry](https://clxrityy.github.io/entries/entry1/)
 ## <img src="icons/book.gif" width="30" height="30"> [READ ALL THE ENTRIES](https://clxrityy.github.io/entries/home/)
