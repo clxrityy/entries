@@ -3,12 +3,12 @@ layout: page
 title: "Home"
 ---
 <div>
-<img src="https://c.tenor.com/x-XKjAgiS6YAAAAi/agenturleben-agencylife.gif" width="250" height="250"> <img src="https://c.tenor.com/kALaOTg9xiYAAAAi/cube-square.gif" width="250" height="250">
+<img src="https://c.tenor.com/x-XKjAgiS6YAAAAi/agenturleben-agencylife.gif" width="250" height="250"> <img src="https://64.media.tumblr.com/6e306e0de947dccb0c65524b8069401b/tumblr_mtx0hlHy1C1suhdw4o1_1280.gifv" width="250" height="250">
 </div>
 
 Do we <i>really</i> know what's going on?
 
-#### Recommendation — <u>Read the entries in order.</u>
+##### Recommendation — <u>Read the entries in order.</u>
 
 First entry below.
 
