@@ -11,7 +11,6 @@ Do we <i>really</i> need to?
 
 ##### Recommendation — <u>Read the entries in order.</u>
 
-First entry below.
 
 ### [➢ First Entry](https://clxrityy.github.io/entries/entry1/)
 ## <img src="icons/book.gif" style="vertical-align:middle" width="20" height="20"> [READ ALL THE ENTRIES](https://clxrityy.github.io/entries/home/) <img src="icons/book.gif" style="vertical-align:middle" width="20" height="20">
