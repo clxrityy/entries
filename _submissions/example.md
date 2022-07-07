@@ -2,7 +2,6 @@
 title:  "Example"
 mathjax: true
 layout: post
-permalink: /example.md
 ---
 
 # Title — <i>“Entry Quote...”</i>
