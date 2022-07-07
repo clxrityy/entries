@@ -1,0 +1,9 @@
+body {
+    color-scheme: inherit;
+    backdrop-filter: url('https://t4.ftcdn.net/jpg/02/00/68/69/360_F_200686968_KS9NVTJgvjMQs2FniVHyIJaAIcg5p7D0.jpg') blur(4px) saturate(150%);
+    padding: 25px 50px 75px 100px;
+}
+
+div {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
