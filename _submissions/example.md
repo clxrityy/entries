@@ -1,0 +1,14 @@
+---
+title:  "Example"
+mathjax: true
+layout: post
+---
+
+# Title — <i>“Entry Quote...”</i>
+
+### MM.DD.YYYY
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Example_image.svg/600px-Example_image.svg.png" width="500" height="500">
+<br>
+
+<i>Your entry goes here...</i>
