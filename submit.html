@@ -6,33 +6,54 @@ sitemap: false
 ---
 <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
 <link rel="stylesheet" href="assets/css/submit.css">
-<style>
-    textarea {
-        width: 100%;
-        height: 150px;
-        padding: 12px 20px;
-        box-sizing: border-box;
-        border: 2px solid #ccc;
-        border-radius: 4px;
-        background-color: #f8f8f8;
-        font-size: 16px;
-        resize: none;
-}
-</style>
+
 <body>
     <div class="container">
-        <div class="submit">
-    <form name="input" method="POST" action="mailto:clxrityxyz@gmail.com" autocomplete="on">
-        Name: <input type="text" name="Name" placeholder="Your name">
-        <br>
-        Email: <input type="email" name="_replyto" placeholder="Your email">
-        <br>
-        Entry: <textarea name="message" placeholder="Type your entry"></textarea>
-        <br>
-        <input type="submit" value="Send">
-        <input type="hidden" name="_subject" value="Enter your subject here" />
-        <input type="hidden" name="_next" value="thanks.html" />
-    </form>
+        <form action="submitterform.php">
+        <div class="row">
+          <div class="col-25">
+            <label for="fname">Name</label>
+          </div>
+          <div class="col-75">
+            <input type="text" id="fname" name="name" placeholder="Your name..">
+          </div>
         </div>
-    </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="alias">Alias</label>
+          </div>
+          <div class="col-75">
+            <input type="text" id="alias" name="whatever" placeholder="Alias..">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="continent">Location</label>
+          </div>
+          <div class="col-75">
+            <select id="continent" name="continent">
+              <option value="as">Asia</option>
+              <option value="af">Africa</option>
+              <option value="na">North America</option>
+              <option value="sa">South America</option>
+              <option value="au">Australia</option>
+              <option value="ant">Antarctica</option>
+              <option value="eu">Europe</option>
+            </select>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-25">
+            <label for="subject">Entry</label>
+          </div>
+          <div class="col-75">
+            <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <input type="submit" value="Submit">
+        </div>
+        </form>
+      </div>
 </body>
