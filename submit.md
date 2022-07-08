@@ -1,5 +1,5 @@
 ---
-permalink: /submit.html
+permalink: /submit.md
 title: "Submit An Entry"
 layout: default
 sitemap: false
