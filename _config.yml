@@ -16,12 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home"}
-  - {file: "home.html", title: "Entries"}
-  - {file: "submit.html", title: "Submit"}
+  - {file: "index.md", title: "Home", icon: house}
+  - {file: "home.html", title: "Entries", icon: block-quote}
+  - {file: "submit.html", title: "Submit", icon: message-captions}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Github, icon: github, url: "https://github.com/clxrityy/posts"}
+  - {title: GitHub, icon: github, url: "https://github.com/clxrityy/posts"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/yourclxrity"}
   - {title: Instagram, icon: instagram, url: "https://instagram.com/mjxnglin"}
 
