@@ -21,7 +21,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "submit.html", title: "Submit"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Instagram, icon: instagram, url: "https://instagram.com/mjxnglin"}
   - {title: Github, icon: github, url: "https://github.com/clxrityy/posts"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/yourclxrity"}
 
