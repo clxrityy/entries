@@ -17,3 +17,16 @@ sitemap: false
   });
 </script>
 </div>
+
+<article>
+  <header><h1>Submissions</h1></header>
+  <h1>If you're going to read, read in order :]</h1>
+  <ul class="archive">
+    {% for submission in submissions</site> %}
+    <li>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ submission.date | date: "%Y-%m-%d" }}</time>
+      <a href="{{ post.url | relative_url }}">{{ submission.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</article>
