@@ -25,6 +25,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: GitHub, icon: github, url: "https://github.com/clxrityy/posts"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/yourclxrity"}
   - {title: Instagram, icon: instagram, url: "https://instagram.com/mjxnglin"}
+  - {title: SoundCloud, icon: soundcloud, url: "https://soundcloud.com/clxrityy"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
