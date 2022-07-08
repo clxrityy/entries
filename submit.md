@@ -1,7 +1,7 @@
 ---
 permalink: /submit.md
 title: "Submit An Entry"
-layout: default
+layout: page
 sitemap: false
 ---
 <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
