@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.html", title: "Entries"}
   - {file: "index.md", title: "Home"}
+  - {file: "home.html", title: "Entries"}
   - {file: "submit.html", title: "Submit"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
