@@ -16,10 +16,10 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "Home", icon: <i class="fa-solid fa-house"></i>}
-  - {file: "home.html", title: "Entries", icon: <i class="fa-solid fa-image-portrait"></i>}
-  - {file: "submit.html", title: "Submit", icon: <i class="fa-solid fa-inbox"></i>}
-  - {url: "https://clxrity.xyz", title: "clxrity", icon: <i class="fa-solid fa-globe"></i>}
+  - {file: "index.md", title: "Home", icon: house}
+  - {file: "home.html", title: "Entries", icon: image-portrait}
+  - {file: "submit.html", title: "Submit", icon: inbox}
+  - {url: "https://clxrity.xyz", title: "clxrity", icon: globe}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: GitHub, icon: github, url: "https://github.com/clxrityy/posts"}
